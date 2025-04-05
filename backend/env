@@ -1,0 +1,24 @@
+# MongoDB
+MONGODB_URI=mongodb://abd5iqqq:teqz4Ag9Gx5YoBfu@ac-lxbq1cp-shard-00-00.tyh4fu3.mongodb.net:27017,ac-lxbq1cp-shard-00-01.tyh4fu3.mongodb.net:27017,ac-lxbq1cp-shard-00-02.tyh4fu3.mongodb.net:27017/?replicaSet=atlas-5e8jf5-shard-0&ssl=true&authSource=admin&retryWrites=true&w=majority&appName=ma7al-store
+
+# JWT
+JWT_SECRET=super-secret-key-2024
+
+# Admin
+ADMIN_SECRET=admin123
+
+# ZainCash API
+ZAINCASH_MSISDN=9647XXXXXXXXX
+ZAINCASH_APP_ID=your-app-id
+ZAINCASH_SECRET=your-app-secret
+ZAINCASH_MERCHANT_ID=your-merchant-id
+ZAINCASH_CALLBACK_URL=https://ma7al-api.onrender.com/api/payments/zaincash/callback
+
+# WhatsApp API
+WHATSAPP_TOKEN=your-ultramsg-token
+
+# Base URL
+BASE_URL=https://ma7al-store.vercel.app
+
+# Expo Push
+EXPO_ACCESS_TOKEN=your-expo-token
